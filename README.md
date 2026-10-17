@@ -1,5 +1,5 @@
 
-Computer engineering student at the **Universitat Politècnica de València (UPV)**.
+Computer engineering student at **Universitat Politècnica de València (UPV)**.
 
 I like understanding how things work.
 
