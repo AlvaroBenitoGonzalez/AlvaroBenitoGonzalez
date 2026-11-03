@@ -1,6 +1,28 @@
-
-Computer engineering student at **Universitat Politècnica de València (UPV)**.
-
-I like understanding how things work.
-
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBenitoGonzalez&layout=compact&size_weight=0.5&count_weight=1&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBenitoGonzalez&layout=compact&size_weight=0.5&count_weight=1&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f"> <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBenitoGonzalez&layout=compact&size_weight=0.5&count_weight=1&theme=transparent&hide_border=true"> </picture> </p>
+```
+                                                       
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Álvaro Benito González
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    Valencia, Spain
+    @@@@@@@@@@@@@@@@@%####@@@%%%@@@@@@@@@@@@@@@@@@@    
+    @@@@@@@@@@@@@@+--::.    ..::-=*%@@@@@@@@@@@@@@@    Studying Informatics Engineering at Universitat Politècnica de València
+    @@@@@@@@@@@@+:..:. ..      ....:=*%@@@@@@@@@@@@    
+    @@@@@@@@@@#-.  .                ..-%@@@@@@@@@@@    Really interested in:
+    @@@@@@@@@*-     .-:.:-.::       . .-@@@@@@@@@@@      - Systems Programming
+    @@@@@@@@%-: .. .-=++=-=-::..     .  :@@@@@@@@@@      - Computer Architecture & Compilers
+    @@@@@@@@@-     =+#%%##***+=-:     . :@@@@@@@@@@      - AI/ML Systems
+    @@@@@@@@@%:.  -===+**+:. .:-===.    @@@@@@@@@@@      - Computer Graphics & Game Engine Development
+    @@@@@@@@@@@::==-:::+#+:::  .-=++    @@@@@@@@@@@      - Quantitative Finance
+    @@@@@@@@@@@+=+-=++#%%**##*+***++.--*@@@@@@@@@@@      - Quantum Computing
+    @@@@@@@@@@@@%#%%%%#%%#**#%%%#**++=-#@@@@@@@@@@@      - Mathematics
+    @@@@@@@@@@@@@%%%%%#++=-=*#***++*++++#@@@@@@@@@@    
+    @@@@@@@@@@@@@@####%*=-==*+*+++++...=+#%%@@@@@@@    My hobbies:
+    @@@@@@@@@@@@@@%##====-==+**++++:  .=+#%%%%%%@@@      - Reading 
+    @@@@@@@@@@@@@@@%*##*++****+++++.  -*##%%%%%%%%@      - Videogames
+    @@@@@@@@@@@@@@@@#*###****++==++. :+*##%%%%%%%%%      - Languages (for both computers and humans)
+    @@@@@@@@@@@@@@@@%*+=-::::-=++++-  :--#%%%%%%%%%      - Verdadera Destreza (HEMA)
+    @@@@@@@@@@@@%+#%%#**++====++++*+=-.:###%%%%%%%%      - Playing and composing music
+    @@@@@@@*+===--=%###**++===++++***=..::-=+#%%%%%      - Chess
+    %*+==========---=###*++===+++++:....:::----=+#%      - History and Philosophy
+    ===============---::::::::..   ....::----------    
+    =-----------------::::::.   .....:-------------    I love understanding how things work down to the smallest details.
+                                                       
+```
